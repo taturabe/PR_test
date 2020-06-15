@@ -1,1 +1,1 @@
-print "bad code. Need parenthes!"
+print("bad code. Need parenthes!")
